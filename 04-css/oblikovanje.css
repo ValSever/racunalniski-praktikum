@@ -44,12 +44,16 @@ h2 {
 }
 .slika  {
     font-size: 0.9em; 
-    width: 100%;
+    width: 40%;
     text-align: left; 
     margin-left: 2em;
     float: right; 
+    
 }
 .slika img {
-    width: 100% 
-    height auto 
+    width: 100%;
+    height: auto;
+}
+.slika p:last-child {
+    font-size: 0.8em;
 }
