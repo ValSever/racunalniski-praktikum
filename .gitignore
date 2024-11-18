@@ -1,26 +1,26 @@
 # LaTeX
-*.aux
-*.bbl
-*.blg
-*.fdb_latexmk
-*.toc
-*.fls
-*.log
-*.out
-*.pdf
-*.pyc
-*.synctex.gz
-*.urnik-resitev.pdf
+aux
+bbl
+blg
+fdb_latexmk
+toc
+fls
+log
+out
+pdf
+pyc
+synctex.gz
+urnik-resitev.pdf
 
-*.urnik.aux
+urnik.aux
 
 urnik.fdb_latexmk
 
-*.urnik.fls
+urnik.fls
 
-*.urnik.log
+urnik.log
 
-*.urnik.out
+urnik.out
 
 # Windows
 thumbs.db
