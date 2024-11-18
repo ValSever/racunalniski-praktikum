@@ -14,7 +14,7 @@
 
 *.urnik.aux
 
-*.urnik.fdb_latexmk
+urnik.fdb_latexmk
 
 *.urnik.fls
 
