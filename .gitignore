@@ -10,6 +10,17 @@
 *.pdf
 *.pyc
 *.synctex.gz
+*.urnik-resitev.pdf
+
+*.urnik.aux
+
+*.urnik.fdb_latexmk
+
+*.urnik.fls
+
+*.urnik.log
+
+*.urnik.out
 
 # Windows
 thumbs.db
