@@ -10,3 +10,6 @@
 *.pdf
 *.pyc
 *.synctex.gz
+
+# Windows
+thumbs.db
