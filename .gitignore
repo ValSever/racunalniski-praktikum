@@ -1,0 +1,26 @@
+# LaTeX
+aux
+bbl
+blg
+fdb_latexmk
+toc
+fls
+log
+out
+pdf
+pyc
+synctex.gz
+urnik-resitev.pdf
+
+urnik.aux
+
+urnik.fdb_latexmk
+
+urnik.fls
+
+urnik.log
+
+urnik.out
+
+# Windows
+thumbs.db
