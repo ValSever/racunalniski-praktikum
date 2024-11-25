@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.11)  18 NOV 2024 19:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.11)  25 NOV 2024 17:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -216,7 +216,8 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 [1
 
-{C:/Users/vs19623/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc} <./slika.pdf>] (magic.toc)
+{C:/Users/vs19623/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc} <./slika.pdf>]
+No file magic.toc.
 \tf@toc=\write3
 \openout3 = `magic.toc'.
 
@@ -227,59 +228,300 @@ Underfull \hbox (badness 10000) in paragraph at lines 67--74
 
  []
 
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <20.74> on input line 82.
+c:/Users/vs19623/racunalniski-praktikum/07-magicni-kvadrati/magic.tex:92: Missing $ inserted.
+<inserted text> 
+                $
+l.92       1, 2, 3, \ldots, n^
+                              2-1, n^2.
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/vs19623/racunalniski-praktikum/07-magicni-kvadrati/magic.tex:93: You can't use `\eqno' in math mode.
+\eqno ->\@kernel@eqno 
+                      \aftergroup \ignorespaces 
+l.93    \end{equation}
+                      
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+c:/Users/vs19623/racunalniski-praktikum/07-magicni-kvadrati/magic.tex:93: Missing $ inserted.
+<inserted text> 
+                $
+l.93    \end{equation}
+                      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
 
 
-[3{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}]
-Underfull \hbox (badness 10000) in paragraph at lines 174--179
+c:/Users/vs19623/racunalniski-praktikum/07-magicni-kvadrati/magic.tex:102: LaTeX Error: Something's wrong--perhaps a missing \item.
 
- []
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.102 \section
+              {Zgodovina}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
-<durer.png, id=36, 65.043pt x 67.57245pt>
+
+c:/Users/vs19623/racunalniski-praktikum/07-magicni-kvadrati/magic.tex:102: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.102 \section
+              {Zgodovina}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+c:/Users/vs19623/racunalniski-praktikum/07-magicni-kvadrati/magic.tex:102: Missing } inserted.
+<inserted text> 
+                }
+l.102 \section{Zgodovina}
+                         
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/vs19623/racunalniski-praktikum/07-magicni-kvadrati/magic.tex:102: Missing } inserted.
+<inserted text> 
+                }
+l.102 \section{Zgodovina}
+                         
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/vs19623/racunalniski-praktikum/07-magicni-kvadrati/magic.tex:102: Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.102 \section{Zgodovina}
+                         
+I'm guessing that you meant to end an alignment here.
+
+c:/Users/vs19623/racunalniski-praktikum/07-magicni-kvadrati/magic.tex:102: Missing { inserted.
+<inserted text> 
+                {
+l.102 \section{Zgodovina}
+                         
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+
+c:/Users/vs19623/racunalniski-praktikum/07-magicni-kvadrati/magic.tex:119: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.119 \subsection
+                 {Kulturna pomembnost}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/vs19623/racunalniski-praktikum/07-magicni-kvadrati/magic.tex:119: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.119 \subsection
+                 {Kulturna pomembnost}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/vs19623/racunalniski-praktikum/07-magicni-kvadrati/magic.tex:126: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.126 \begin{center}
+                    
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/vs19623/racunalniski-praktikum/07-magicni-kvadrati/magic.tex:126: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.126 \begin{center}
+                    
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/vs19623/racunalniski-praktikum/07-magicni-kvadrati/magic.tex:126: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.126 \begin{center}
+                    
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/vs19623/racunalniski-praktikum/07-magicni-kvadrati/magic.tex:131: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.131 \end{center}
+                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+c:/Users/vs19623/racunalniski-praktikum/07-magicni-kvadrati/magic.tex:168: Misplaced \cr.
+\reserved@c ->\ifnum 0=`{\fi }\cr 
+                                  
+l.168 
+      
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+<durer.png, id=28, 65.043pt x 67.57245pt>
 File: durer.png Graphic file (type png)
 <use durer.png>
-Package pdftex.def Info: durer.png  used on input line 187.
+Package pdftex.def Info: durer.png  used on input line 176.
 (pdftex.def)             Requested size: 97.56424pt x 101.3584pt.
+c:/Users/vs19623/racunalniski-praktikum/07-magicni-kvadrati/magic.tex:208: Misplaced \cr.
+\reserved@c ->\ifnum 0=`{\fi }\cr 
+                                  
+l.208 \begin
+            {center}
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
 
-
-[4 <./durer.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 216--219
-
- []
-
-<sagrada.png, id=42, 281.05pt x 210.7875pt>
+<sagrada.png, id=30, 281.05pt x 210.7875pt>
 File: sagrada.png Graphic file (type png)
 <use sagrada.png>
-Package pdftex.def Info: sagrada.png  used on input line 221.
+Package pdftex.def Info: sagrada.png  used on input line 210.
 (pdftex.def)             Requested size: 140.52464pt x 105.3935pt.
+c:/Users/vs19623/racunalniski-praktikum/07-magicni-kvadrati/magic.tex:255: Misplaced \cr.
+\reserved@c ->\ifnum 0=`{\fi }\cr 
+                                  
+l.255 
+      
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
 
-Underfull \hbox (badness 10000) in paragraph at lines 260--266
 
- []
+c:/Users/vs19623/racunalniski-praktikum/07-magicni-kvadrati/magic.tex:352: LaTeX Error: \begin{tabular} on input line 78 ended by \end{document}.
 
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.352 \end{document}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
-
-[5{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc} <./sagrada.png>]
-
-[6] (magic.aux)
+(magic.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
  ***********
- ) 
-Here is how much of TeX's memory you used:
- 3054 strings out of 473904
- 51526 string characters out of 5736408
- 1932908 words of memory out of 5000000
- 25876 multiletter control sequences out of 15000+600000
- 610571 words of font info for 70 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 57i,8n,65p,272b,304s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/latxfont/line10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on magic.pdf (6 pages, 393789 bytes).
-PDF statistics:
- 111 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
+c:/Users/vs19623/racunalniski-praktikum/07-magicni-kvadrati/magic.tex:352: You can't use `\end' in internal vertical mode.
+\enddocument ...cument/end}\deadcycles \z@ \@@end 
+                                                  
+l.352 \end{document}
+                    
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+c:/Users/vs19623/racunalniski-praktikum/07-magicni-kvadrati/magic.tex:352: LaTeX Error: \begin{tabular} on input line 78 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.352 \end{document}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/vs19623/racunalniski-praktikum/07-magicni-kvadrati/magic.tex:352: Missing } inserted.
+<inserted text> 
+                }
+l.352 \end{document}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/vs19623/racunalniski-praktikum/07-magicni-kvadrati/magic.tex:352: Missing $ inserted.
+<inserted text> 
+                $
+l.352 \end{document}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/vs19623/racunalniski-praktikum/07-magicni-kvadrati/magic.tex:352: Missing } inserted.
+<inserted text> 
+                }
+l.352 \end{document}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+)
+! Emergency stop.
+<*> ...ski-praktikum/07-magicni-kvadrati/magic.tex
+                                                  
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 3041 strings out of 473904
+ 51285 string characters out of 5736408
+ 1936908 words of memory out of 5000000
+ 25870 multiletter control sequences out of 15000+600000
+ 606947 words of font info for 67 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,11n,65p,272b,372s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!
