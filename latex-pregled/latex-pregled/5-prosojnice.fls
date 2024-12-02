@@ -1,7 +1,7 @@
-PWD c:\Users\vs19623\racunalniski-praktikum\08-prosojnice
+PWD c:\Users\vs19623\racunalniski-praktikum\latex-pregled\latex-pregled
 INPUT C:\Users\vs19623\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\vs19623\racunalniski-praktikum\08-prosojnice\prosojnice.tex
-OUTPUT prosojnice.log
+INPUT c:\Users\vs19623\racunalniski-praktikum\latex-pregled\latex-pregled\5-prosojnice.tex
+OUTPUT 5-prosojnice.log
 INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\beamer\beamer.cls
 INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\beamer\beamer.cls
 INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbasemodes.sty
@@ -57,10 +57,10 @@ INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.misc.code.te
 INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code.tex
 INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathcalc.code.tex
 INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfloat.code.tex
-INPUT C:\Program Files\MiKTeX\tex\latex\base\size11.clo
-INPUT C:\Program Files\MiKTeX\tex\latex\base\size11.clo
-INPUT C:\Program Files\MiKTeX\tex\latex\base\size11.clo
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\extsizes\size14.clo
+INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\extsizes\size14.clo
+INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\extsizes\size14.clo
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Program Files\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
@@ -254,7 +254,7 @@ INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\amscls\amsthm.sty
 INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\amscls\amsthm.sty
 INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbasethemes.sty
 INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbasethemes.sty
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmss10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmss12.tfm
 INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerthemedefault.sty
 INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerthemedefault.sty
 INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerfontthemedefault.sty
@@ -264,7 +264,7 @@ INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\beamer\beamercolorthemed
 INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerinnerthemedefault.sty
 INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerinnerthemedefault.sty
 INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\beamer\beamericonbook.pdf
-OUTPUT prosojnice.pdf
+OUTPUT 5-prosojnice.pdf
 INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\beamer\beamericonbook.pdf
 INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\beamer\beamericonbook.pdf
 INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\beamer\beamericonbook.20.pdf
@@ -284,13 +284,11 @@ INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\beamer\beamericononline.
 INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\beamer\beamericononline.20.pdf
 INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerouterthemedefault.sty
 INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerouterthemedefault.sty
-INPUT .\predavanja.sty
-INPUT predavanja.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
-INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecss1095.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecss1440.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
 INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
 INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
 INPUT C:\Program Files\MiKTeX\tex\generic\babel\txtbabel.def
@@ -304,139 +302,24 @@ INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\sl\babel-slovene.tex
 INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\sl\babel-slovene.tex
 INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\sl\babel-slovene.tex
 INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\sl\babel-sl.ini
-INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\mathtools\mathtools.sty
-INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\mathtools\mathtools.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgfpages.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgfpages.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\tools\calc.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\tools\calc.sty
-INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\mathtools\mhsetup.sty
-INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\mathtools\mhsetup.sty
-INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\qtree\qtree.sty
-INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\qtree\qtree.sty
-INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\pict2e\pict2e.sty
-INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\pict2e\pict2e.sty
-INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\pict2e\pict2e.cfg
-INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\pict2e\pict2e.cfg
-INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\pict2e\pict2e.cfg
-INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\pict2e\p2e-pdftex.def
-INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\pict2e\p2e-pdftex.def
-INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\pict2e\p2e-pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\color.sty
-INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\beamertheme-metropolis\beamerthememetropolis.sty
-INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\beamertheme-metropolis\beamerthememetropolis.sty
-INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\pgfopts\pgfopts.sty
-INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\pgfopts\pgfopts.sty
-INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\beamertheme-metropolis\beamerinnerthememetropolis.sty
-INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\beamertheme-metropolis\beamerinnerthememetropolis.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgf\modules\pgfmoduleplot.code.tex
-INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgf\modules\pgfmodulematrix.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
-INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\beamertheme-metropolis\beamerouterthememetropolis.sty
-INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\beamertheme-metropolis\beamerouterthememetropolis.sty
-INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\beamertheme-metropolis\beamercolorthememetropolis.sty
-INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\beamertheme-metropolis\beamercolorthememetropolis.sty
-INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\beamertheme-metropolis\beamerfontthememetropolis.sty
-INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\beamertheme-metropolis\beamerfontthememetropolis.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifxetex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifxetex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifluatex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifluatex.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarymath.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarymath.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryfpu.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryfpu.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\pgflibraryfpu.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\pgflibraryfpu.code.tex
-INPUT C:\Program Files\MiKTeX\tex\latex\pgfplots\pgfplots.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\pgfplots\pgfplots.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\pgfplots.revision.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\pgfplots.revision.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\pgfplots.revision.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-luatex.def
-INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-luatex.def
-INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\pgfplots.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\pgfplotscore.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\sys\pgfplotssysgeneric.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\libs\pgfplotslibrary.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\oldpgfcompatib\pgfplotsoldpgfsupp_loader.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\pgflibraryfpu.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\oldpgfcompatib\pgfplotsoldpgfsupp_pgfutil-common-lists.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\util\pgfplotsutil.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\liststructure\pgfplotsliststructure.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\liststructure\pgfplotsliststructureext.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\liststructure\pgfplotsarray.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\liststructure\pgfplotsmatrix.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\numtable\pgfplotstableshared.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\liststructure\pgfplotsdeque.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\util\pgfplotsbinary.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\util\pgfplotsbinary.data.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\util\pgfplotsutil.verb.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\libs\pgflibrarypgfplots.surfshading.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\sys\pgflibrarypgfplots.surfshading.pgfsys-pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\sys\pgflibrarypgfplots.surfshading.pgfsys-pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\util\pgfplotscolormap.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\util\pgfplotscolor.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\pgfplotsstackedplots.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\pgfplotsplothandlers.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\pgfplotsmeshplothandler.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\pgfplotsmeshplotimage.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\pgfplots.scaling.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\pgfplotscoordprocessing.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\pgfplots.errorbars.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\pgfplots.markers.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\pgfplotsticks.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\pgfplots.paths.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgf\modules\pgfmoduledecorations.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.pathmorphing.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.pathmorphing.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.pathmorphing.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.pathmorphing.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.pathreplacing.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.pathreplacing.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.pathreplacing.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.pathreplacing.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\libs\tikzlibrarypgfplots.contourlua.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\libs\tikzlibrarypgfplots.contourlua.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryplotmarks.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryplotmarks.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\pgflibraryplotmarks.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\pgflibraryplotmarks.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\libs\tikzlibrarypgfplots.external.code.tex
-INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\libs\tikzlibrarypgfplots.external.code.tex
-INPUT C:\Program Files\MiKTeX\tex\latex\pgf\frontendlayer\libraries\tikzlibraryexternal.code.tex
-INPUT C:\Program Files\MiKTeX\tex\latex\pgf\frontendlayer\libraries\tikzlibraryexternal.code.tex
-INPUT C:\Program Files\MiKTeX\tex\latex\pgf\frontendlayer\libraries\tikzlibraryexternal.code.tex
-INPUT C:\Program Files\MiKTeX\tex\latex\atveryend\atveryend.sty
-INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzexternalshared.code.tex
-INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\beamertheme-metropolis\pgfplotsthemetol.sty
-INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\beamertheme-metropolis\pgfplotsthemetol.sty
+INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\psnfss\palatino.sty
+INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\psnfss\palatino.sty
+INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerfontthemeserif.sty
+INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerfontthemeserif.sty
+INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\psnfss\t1ppl.fd
+INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\psnfss\t1ppl.fd
+INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\psnfss\t1ppl.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr8t.tfm
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT .\prosojnice.aux
-INPUT .\prosojnice.aux
-INPUT prosojnice.aux
-OUTPUT prosojnice.aux
+INPUT .\5-prosojnice.aux
+INPUT .\5-prosojnice.aux
+INPUT 5-prosojnice.aux
+OUTPUT 5-prosojnice.aux
 INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -445,13 +328,13 @@ INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT .\prosojnice.out
-INPUT .\prosojnice.out
-INPUT prosojnice.out
-INPUT prosojnice.out
-INPUT .\prosojnice.out
-INPUT .\prosojnice.out
-OUTPUT prosojnice.out
+INPUT .\5-prosojnice.out
+INPUT .\5-prosojnice.out
+INPUT 5-prosojnice.out
+INPUT 5-prosojnice.out
+INPUT .\5-prosojnice.out
+INPUT .\5-prosojnice.out
+OUTPUT 5-prosojnice.out
 INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\translator\translator-basic-dictionary-English.dict
 INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\translator\translator-basic-dictionary-English.dict
 INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\translator\translator-basic-dictionary-English.dict
@@ -470,36 +353,17 @@ INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\translator\translator-nu
 INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\translator\translator-theorem-dictionary-English.dict
 INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\translator\translator-theorem-dictionary-English.dict
 INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\translator\translator-theorem-dictionary-English.dict
-INPUT .\prosojnice.nav
-INPUT .\prosojnice.nav
-INPUT prosojnice.nav
-INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecss0600.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecss0800.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecss1440.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecsx1440.tfm
-INPUT C:\Program Files\MiKTeX\tex\latex\base\t1cmtt.fd
-INPUT C:\Program Files\MiKTeX\tex\latex\base\t1cmtt.fd
-INPUT C:\Program Files\MiKTeX\tex\latex\base\t1cmtt.fd
-INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ectt1440.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecss1200.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecsi1200.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecss0500.tfm
-INPUT C:\Users\vs19623\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT .\prosojnice.toc
-INPUT .\prosojnice.toc
-INPUT prosojnice.toc
-INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ectt1095.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecsx1200.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmss8.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmss8.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi10.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
+INPUT .\5-prosojnice.nav
+INPUT .\5-prosojnice.nav
+INPUT 5-prosojnice.nav
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr8t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr8t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr8t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr8t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr8t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsa.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsa.fd
@@ -513,52 +377,53 @@ INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\sansmathaccent\ot1mathkerncmss.fd
-INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\sansmathaccent\ot1mathkerncmss.fd
-INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\sansmathaccent\ot1mathkerncmss.fd
-INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\fonts\tfm\public\sansmathaccent\mathkerncmssi10.tfm
-INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\fonts\tfm\public\sansmathaccent\mathkerncmssi8.tfm
-INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\fonts\tfm\public\sansmathaccent\mathkerncmssi8.tfm
-INPUT .\prosojnice\1-paket-beamer.tex
-INPUT .\prosojnice\1-paket-beamer.tex
-INPUT prosojnice\1-paket-beamer.tex
-INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecsx1095.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecsi1095.tfm
-INPUT C:\Program Files\MiKTeX\tex\latex\base\ts1cmss.fd
-INPUT C:\Program Files\MiKTeX\tex\latex\base\ts1cmss.fd
-INPUT C:\Program Files\MiKTeX\tex\latex\base\ts1cmss.fd
-INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\tcss1095.tfm
-OUTPUT prosojnice.nav
-OUTPUT prosojnice.toc
-OUTPUT prosojnice.snm
-INPUT prosojnice.aux
-INPUT .\prosojnice.out
-INPUT .\prosojnice.out
-INPUT C:\Users\vs19623\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcss1095.pk
-INPUT C:\Users\vs19623\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcss1095.pk
-INPUT C:\Users\vs19623\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecsi1095.pk
-INPUT C:\Users\vs19623\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecsi1095.pk
-INPUT C:\Users\vs19623\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1095.pk
-INPUT C:\Users\vs19623\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1095.pk
-INPUT C:\Users\vs19623\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1095.pk
-INPUT C:\Users\vs19623\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1095.pk
-INPUT C:\Users\vs19623\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1095.pk
-INPUT C:\Users\vs19623\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1095.pk
-INPUT C:\Users\vs19623\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1200.pk
-INPUT C:\Users\vs19623\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1200.pk
-INPUT C:\Users\vs19623\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecss0800.pk
-INPUT C:\Users\vs19623\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecss0800.pk
-INPUT C:\Users\vs19623\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1200.pk
-INPUT C:\Users\vs19623\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1200.pk
-INPUT C:\Users\vs19623\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecsi1200.pk
-INPUT C:\Users\vs19623\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecsi1200.pk
-INPUT C:\Users\vs19623\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1440.pk
-INPUT C:\Users\vs19623\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1440.pk
-INPUT C:\Users\vs19623\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1440.pk
-INPUT C:\Users\vs19623\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1440.pk
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmss10.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmss10.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmssi10.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmssi10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr8t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr8t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplri8t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplri8t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplri8t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplr8t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
+INPUT C:\Users\vs19623\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\base\8r.enc
+INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplr8t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplr8t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplr8t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr8t.tfm
+INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\psnfss\t1pcr.fd
+INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\psnfss\t1pcr.fd
+INPUT C:\Users\vs19623\AppData\Roaming\MiKTeX\tex\latex\psnfss\t1pcr.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\courier\pcrr8t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplr8t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplri8t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplri8r.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplr8t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\courier\pcrr8t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\courier\pcrr8r.tfm
+OUTPUT 5-prosojnice.nav
+OUTPUT 5-prosojnice.toc
+OUTPUT 5-prosojnice.snm
+INPUT 5-prosojnice.aux
+INPUT .\5-prosojnice.out
+INPUT .\5-prosojnice.out
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\symbols\msam10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\symbols\msam10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\symbols\msbm10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\symbols\msbm10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\urw\courier\ucrr8a.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\urw\courier\ucrr8a.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\urw\palatino\uplr8a.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\urw\palatino\uplr8a.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\urw\palatino\uplri8a.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\urw\palatino\uplri8a.pfb
